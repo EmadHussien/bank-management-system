@@ -36,3 +36,7 @@ Desktop Application .
 1. The Database Schema (Database schema)
 2. The Actual Table and Relationships on SQL + the functions or stored procedures for the main functional requirements.
 3. The desktop application ( visual studio app) and system interface
+
+#### Database ERD CLASS DIAGRAM : 
+<img src = "https://user-images.githubusercontent.com/31719363/167021765-6fd09ae7-168f-4c8f-8d54-fed080567b9f.png" width = 800px />
+
